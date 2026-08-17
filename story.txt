@@ -1,1 +1,2 @@
 "This is the first content of my file" 
+"This is line 2" 
