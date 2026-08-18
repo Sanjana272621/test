@@ -1,2 +1,1 @@
 "This is what original story should look like" 
-"This is line tww of my story file" 
